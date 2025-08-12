@@ -1,0 +1,6 @@
+[2025-08-10 08:17:37] SERVER: 0{"sid":"asnJ683HO5y3xoJGAAAv","upgrades":[],"pingInterval":25000,"pingTimeout":20000,"maxPayload":1000000}
+[2025-08-10 08:17:37] INFO: Socket.IO connected
+[2025-08-10 08:17:37] SERVER: 40/tts,{"sid":"SaJi1wBCk2vFe_JIAAAw"}
+[2025-08-10 08:17:37] INFO: Processing Socket.IO message/event
+[2025-08-10 08:17:37] SERVER: 42/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T01:17:37.615Z","socketId":"SaJi1wBCk2vFe_JIAAAw"}]
+[2025-08-10 08:17:37] INFO: Processing Socket.IO message/event

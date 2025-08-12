@@ -1,0 +1,28 @@
+[2025-08-10 07:47:37] SERVER: 0{"sid":"RqEmrhnNJl8g-uGlAAAE","upgrades":[],"pingInterval":25000,"pingTimeout":20000,"maxPayload":1000000}
+[2025-08-10 07:47:37] INFO: Socket.IO connected
+[2025-08-10 07:47:37] SERVER: 40/tts,{"sid":"9UkLqIqrMe6LsCusAAAF"}
+[2025-08-10 07:47:37] INFO: Processing Socket.IO message/event
+[2025-08-10 07:47:37] SERVER: 42/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T00:47:37.427Z","socketId":"9UkLqIqrMe6LsCusAAAF"}]
+[2025-08-10 07:47:37] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:02] SERVER: 2
+[2025-08-10 07:48:02] INFO: Ping received, sending pong
+[2025-08-10 07:48:25] SERVER: 42/tts,["broadcast",{"type":"queue_assigned","queueNumber":"A-093","counter":"A","service":"cccd","qrCode":"A-093","message":"Số thứ tự của quý vị là A chín mươi ba. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.575Z"}]
+[2025-08-10 07:48:25] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:25] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi ba. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.576Z"}]
+[2025-08-10 07:48:25] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:25] INFO: Navigation message: Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi ba. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.
+[2025-08-10 07:48:36] SERVER: 42/tts,["broadcast",{"type":"queue_assigned","queueNumber":"A-094","counter":"A","service":"cccd","qrCode":"A-094","message":"Số thứ tự của quý vị là A chín mươi bốn. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.628Z"}]
+[2025-08-10 07:48:36] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:36] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi bốn. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.629Z"}]
+[2025-08-10 07:48:36] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:36] INFO: Navigation message: Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi bốn. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.
+[2025-08-10 07:48:48] SERVER: 42/tts,["broadcast",{"type":"queue_assigned","queueNumber":"A-095","counter":"A","service":"cccd","qrCode":"A-095","message":"Số thứ tự của quý vị là A chín mươi lăm. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.789Z"}]
+[2025-08-10 07:48:48] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:48] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi lăm. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:48:25.790Z"}]
+[2025-08-10 07:48:48] INFO: Processing Socket.IO message/event
+[2025-08-10 07:48:48] INFO: Navigation message: Dạ, quý vị muốn làm căn cước công dân. Số thứ tự của quý vị là A chín mươi lăm. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.
+[2025-08-10 07:49:00] SERVER: 2
+[2025-08-10 07:49:00] INFO: Ping received, sending pong
+[2025-08-10 07:49:00] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, quý vị cần chuẩn bị Tờ khai cấp Căn Cước Công Dân (mẫu CCCD 01), Giấy tờ tùy thân nếu có, và Giấy tờ chứng minh thay đổi thông tin (nếu có).  Cảm ơn!","timestamp":"2025-08-10T00:48:46.461Z"}]
+[2025-08-10 07:49:00] INFO: Processing Socket.IO message/event
+[2025-08-10 07:49:00] INFO: Navigation message: Dạ, quý vị cần chuẩn bị Tờ khai cấp Căn Cước Công Dân (mẫu CCCD 01), Giấy tờ tùy thân nếu có, và Giấy tờ chứng minh thay đổi thông tin (nếu có).  Cảm ơn!

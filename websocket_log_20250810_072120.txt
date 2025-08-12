@@ -1,0 +1,102 @@
+[2025-08-10 07:21:20] SERVER: 0{"sid":"rglBf7vuEgbibJpGAAAi","upgrades":[],"pingInterval":25000,"pingTimeout":20000,"maxPayload":1000000}
+[2025-08-10 07:21:20] INFO: Socket.IO connected
+[2025-08-10 07:21:20] SERVER: 40/tts,{"sid":"kNX9gUC1smYIhmpnAAAj"}
+[2025-08-10 07:21:20] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:20] INFO: Non-TTS message received: 0/tts,{"sid":"kNX9gUC1smYIhmpnAAAj"}
+[2025-08-10 07:21:20] SERVER: 42/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T00:21:20.610Z","socketId":"kNX9gUC1smYIhmpnAAAj"}]
+[2025-08-10 07:21:20] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:20] INFO: Non-TTS message received: 2/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T00:21:20.610Z","socketId":"kNX9gUC1smYIhmpnAAAj"}]
+[2025-08-10 07:21:22] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"dat","message":"Dạ, quý vị cần chuẩn bị hồ sơ bao gồm Đơn đăng ký, Giấy chứng nhận quyền sử dụng đất (nếu có), và các giấy tờ liên quan khác.","timestamp":"2025-08-10T00:21:22.801Z"}]
+[2025-08-10 07:21:22] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:22] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"dat","message":"Dạ, quý vị cần chuẩn bị hồ sơ bao gồm Đơn đăng ký, Giấy chứng nhận quyền sử dụng đất (nếu có), và các giấy tờ liên quan khác.","timestamp":"2025-08-10T00:21:22.801Z"}]
+[2025-08-10 07:21:22] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_xa_dat","message":"Dạ, quý vị cần chuẩn bị hồ sơ gồm: Đơn đăng ký, Giấy tờ chứng minh quyền sử dụng đất, Bản sao giấy tờ tùy thân.  Cảm ơn!","timestamp":"2025-08-10T00:21:22.892Z"}]
+[2025-08-10 07:21:22] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:22] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_xa_dat","message":"Dạ, quý vị cần chuẩn bị hồ sơ gồm: Đơn đăng ký, Giấy tờ chứng minh quyền sử dụng đất, Bản sao giấy tờ tùy thân.  Cảm ơn!","timestamp":"2025-08-10T00:21:22.892Z"}]
+[2025-08-10 07:21:45] SERVER: 2
+[2025-08-10 07:21:45] INFO: Ping received, sending pong
+[2025-08-10 07:21:47] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, quý vị cần chuẩn bị hồ sơ gồm: Đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và Giấy tờ chứng minh nơi cư trú hiện tại.  Cảm ơn!","timestamp":"2025-08-10T00:21:47.511Z"}]
+[2025-08-10 07:21:47] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:47] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, quý vị cần chuẩn bị hồ sơ gồm: Đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và Giấy tờ chứng minh nơi cư trú hiện tại.  Cảm ơn!","timestamp":"2025-08-10T00:21:47.511Z"}]
+[2025-08-10 07:21:47] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, để xóa đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), Giấy tờ chứng minh nơi cư trú hiện tại (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:21:47.567Z"}]
+[2025-08-10 07:21:47] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:47] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, để xóa đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), Giấy tờ chứng minh nơi cư trú hiện tại (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:21:47.567Z"}]
+[2025-08-10 07:21:47] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, để xóa đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và Giấy tờ chứng minh nơi cư trú hiện tại (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:21:47.729Z"}]
+[2025-08-10 07:21:47] INFO: Processing Socket.IO message/event
+[2025-08-10 07:21:47] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xoa_dang_ky_thuong_tru","message":"Dạ, để xóa đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Đơn xin xóa đăng ký thường trú, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và Giấy tờ chứng minh nơi cư trú hiện tại (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:21:47.729Z"}]
+[2025-08-10 07:22:10] SERVER: 2
+[2025-08-10 07:22:10] INFO: Ping received, sending pong
+[2025-08-10 07:22:35] SERVER: 2
+[2025-08-10 07:22:35] INFO: Ping received, sending pong
+[2025-08-10 07:22:58] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ tùy thân, Giấy tờ chứng minh nơi ở hợp pháp. Cảm ơn!","timestamp":"2025-08-10T00:22:58.863Z"}]
+[2025-08-10 07:22:58] INFO: Processing Socket.IO message/event
+[2025-08-10 07:22:58] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ tùy thân, Giấy tờ chứng minh nơi ở hợp pháp. Cảm ơn!","timestamp":"2025-08-10T00:22:58.863Z"}]
+[2025-08-10 07:22:59] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Bản sao giấy tờ tùy thân, Giấy tờ chứng minh nơi cư trú hợp pháp, Giấy tờ chứng minh quan hệ nhân thân (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:22:59.291Z"}]
+[2025-08-10 07:22:59] INFO: Processing Socket.IO message/event
+[2025-08-10 07:22:59] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Bản sao giấy tờ tùy thân, Giấy tờ chứng minh nơi cư trú hợp pháp, Giấy tờ chứng minh quan hệ nhân thân (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:22:59.291Z"}]
+[2025-08-10 07:22:59] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ tùy thân (CCCD hoặc CMND), Giấy tờ chứng minh nơi ở hợp pháp, Giấy tờ chứng minh quan hệ nhân thân (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:22:59.331Z"}]
+[2025-08-10 07:22:59] INFO: Processing Socket.IO message/event
+[2025-08-10 07:22:59] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ tùy thân (CCCD hoặc CMND), Giấy tờ chứng minh nơi ở hợp pháp, Giấy tờ chứng minh quan hệ nhân thân (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:22:59.331Z"}]
+[2025-08-10 07:22:59] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thu_tuc_dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ chứng minh chỗ ở hợp pháp, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và các giấy tờ khác theo quy định.  Cảm ơn!","timestamp":"2025-08-10T00:22:59.377Z"}]
+[2025-08-10 07:22:59] INFO: Processing Socket.IO message/event
+[2025-08-10 07:22:59] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"thu_tuc_dang_ky_thuong_tru","message":"Dạ, để làm thủ tục đăng ký thường trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn đăng ký thường trú, Giấy tờ chứng minh chỗ ở hợp pháp, Giấy tờ tùy thân (Căn cước công dân hoặc Chứng minh nhân dân), và các giấy tờ khác theo quy định.  Cảm ơn!","timestamp":"2025-08-10T00:22:59.377Z"}]
+[2025-08-10 07:23:00] SERVER: 2
+[2025-08-10 07:23:00] INFO: Ping received, sending pong
+[2025-08-10 07:23:03] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379379","timestamp":"2025-08-10T00:23:03.077Z"}]
+[2025-08-10 07:23:03] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:03] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379379","timestamp":"2025-08-10T00:23:03.077Z"}]
+[2025-08-10 07:23:03] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379332","timestamp":"2025-08-10T00:23:03.129Z"}]
+[2025-08-10 07:23:03] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:03] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379332","timestamp":"2025-08-10T00:23:03.129Z"}]
+[2025-08-10 07:23:03] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379293","timestamp":"2025-08-10T00:23:03.178Z"}]
+[2025-08-10 07:23:03] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:03] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785379293","timestamp":"2025-08-10T00:23:03.178Z"}]
+[2025-08-10 07:23:08] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, để xác nhận thông tin cư trú, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2022 của Bộ Công an, cùng với Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:08.138Z"}]
+[2025-08-10 07:23:08] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:08] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, để xác nhận thông tin cư trú, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2022 của Bộ Công an, cùng với Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:08.138Z"}]
+[2025-08-10 07:23:08] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2021 của Bộ Công an, cùng với Căn cước công dân hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:08.231Z"}]
+[2025-08-10 07:23:08] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:08] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2021 của Bộ Công an, cùng với Căn cước công dân hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:08.231Z"}]
+[2025-08-10 07:23:08] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2021 của Bộ Công an, kèm theo Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Nếu xin xác nhận cư trú cho người khác, cần thêm giấy tờ chứng minh quan hệ nhân thân. Cảm ơn!","timestamp":"2025-08-10T00:23:08.250Z"}]
+[2025-08-10 07:23:08] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:08] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2021 của Bộ Công an, kèm theo Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Nếu xin xác nhận cư trú cho người khác, cần thêm giấy tờ chứng minh quan hệ nhân thân. Cảm ơn!","timestamp":"2025-08-10T00:23:08.250Z"}]
+[2025-08-10 07:23:08] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2023 của Bộ Công an, kèm theo Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Trường hợp đặc biệt cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác.  Cảm ơn!","timestamp":"2025-08-10T00:23:08.271Z"}]
+[2025-08-10 07:23:08] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:08] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần mẫu chứng thực 07 theo Thông tư 56/2023 của Bộ Công an, kèm theo Căn cước công dân gắn chip hoặc Chứng minh nhân dân, và Hộ chiếu còn hiệu lực. Trường hợp đặc biệt cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác.  Cảm ơn!","timestamp":"2025-08-10T00:23:08.271Z"}]
+[2025-08-10 07:23:10] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388140","timestamp":"2025-08-10T00:23:10.909Z"}]
+[2025-08-10 07:23:10] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:10] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388140","timestamp":"2025-08-10T00:23:10.909Z"}]
+[2025-08-10 07:23:11] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388273","timestamp":"2025-08-10T00:23:10.971Z"}]
+[2025-08-10 07:23:11] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:11] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388273","timestamp":"2025-08-10T00:23:10.971Z"}]
+[2025-08-10 07:23:11] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388252","timestamp":"2025-08-10T00:23:11.019Z"}]
+[2025-08-10 07:23:11] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:11] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388252","timestamp":"2025-08-10T00:23:11.019Z"}]
+[2025-08-10 07:23:11] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388232","timestamp":"2025-08-10T00:23:11.067Z"}]
+[2025-08-10 07:23:11] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:11] INFO: Non-TTS message received: 2/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754785388232","timestamp":"2025-08-10T00:23:11.067Z"}]
+[2025-08-10 07:23:15] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thay_doi_thong_tin_cu_tru","message":"Dạ, quý vị cần mẫu tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền. Quý vị có thể tham khảo Mẫu số 01 theo quy định.  Cảm ơn!","timestamp":"2025-08-10T00:23:15.533Z"}]
+[2025-08-10 07:23:15] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:15] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"thay_doi_thong_tin_cu_tru","message":"Dạ, quý vị cần mẫu tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền. Quý vị có thể tham khảo Mẫu số 01 theo quy định.  Cảm ơn!","timestamp":"2025-08-10T00:23:15.533Z"}]
+[2025-08-10 07:23:15] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền, vui lòng sử dụng mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an.  Cảm ơn.","timestamp":"2025-08-10T00:23:15.630Z"}]
+[2025-08-10 07:23:15] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:15] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền, vui lòng sử dụng mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an.  Cảm ơn.","timestamp":"2025-08-10T00:23:15.630Z"}]
+[2025-08-10 07:23:16] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, tờ khai đổi thông tin trú theo mẫu không dâyuyền là chứng thực 07 theo Thông tư 66/2023 của Bộ Công an. Quý vị cần chuẩn bị Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:16.194Z"}]
+[2025-08-10 07:23:16] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:16] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, tờ khai đổi thông tin trú theo mẫu không dâyuyền là chứng thực 07 theo Thông tư 66/2023 của Bộ Công an. Quý vị cần chuẩn bị Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:23:16.194Z"}]
+[2025-08-10 07:23:16] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thay_doi_thong_tin_cu_tru","message":"Dạ, quý vị cần mẫu tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền. Mẫu đơn này có thể được tìm thấy tại cơ quan công an hoặc trên trang web chính thức của cơ quan chức năng. Cảm ơn!","timestamp":"2025-08-10T00:23:16.234Z"}]
+[2025-08-10 07:23:16] INFO: Processing Socket.IO message/event
+[2025-08-10 07:23:16] INFO: Non-TTS message received: 2/tts,["navigation",{"type":"navigation","action":"navigation","url":"thay_doi_thong_tin_cu_tru","message":"Dạ, quý vị cần mẫu tờ khai thay đổi thông tin cư trú theo mẫu không dây thuyền. Mẫu đơn này có thể được tìm thấy tại cơ quan công an hoặc trên trang web chính thức của cơ quan chức năng. Cảm ơn!","timestamp":"2025-08-10T00:23:16.234Z"}]
+[2025-08-10 07:23:25] SERVER: 2
+[2025-08-10 07:23:25] INFO: Ping received, sending pong
+[2025-08-10 07:23:50] SERVER: 2
+[2025-08-10 07:23:50] INFO: Ping received, sending pong
+[2025-08-10 07:24:15] SERVER: 2
+[2025-08-10 07:24:15] INFO: Ping received, sending pong
+[2025-08-10 07:24:40] SERVER: 2
+[2025-08-10 07:24:40] INFO: Ping received, sending pong
+[2025-08-10 07:25:05] SERVER: 2
+[2025-08-10 07:25:05] INFO: Ping received, sending pong
+[2025-08-10 07:25:30] SERVER: 2
+[2025-08-10 07:25:30] INFO: Ping received, sending pong
+[2025-08-10 07:25:55] SERVER: 2
+[2025-08-10 07:25:55] INFO: Ping received, sending pong

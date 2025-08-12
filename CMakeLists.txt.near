@@ -1,0 +1,74 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(audio_uploader LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+set(CMAKE_CXX_EXTENSIONS OFF)
+
+# Find required packages
+find_package(Boost REQUIRED COMPONENTS system)
+find_package(OpenSSL REQUIRED)
+find_package(Threads REQUIRED)
+find_package(CURL REQUIRED)
+
+# Include websocketpp (header-only library)
+include(FetchContent)
+FetchContent_Declare(
+    websocketpp
+    GIT_REPOSITORY https://github.com/zaphoyd/websocketpp.git
+    GIT_TAG 0.8.2
+)
+FetchContent_MakeAvailable(websocketpp)
+
+# Client executable
+add_executable(audio_uploader
+    main.cpp
+)
+
+target_link_libraries(audio_uploader
+    PRIVATE
+    Boost::system
+    OpenSSL::SSL
+    OpenSSL::Crypto
+    Threads::Threads
+)
+
+target_include_directories(audio_uploader
+    PRIVATE
+    ${websocketpp_SOURCE_DIR}
+)
+
+# Server executable
+add_executable(audio_server
+    server.cpp
+)
+
+target_link_libraries(audio_server
+    PRIVATE
+    Boost::system
+    OpenSSL::SSL
+    OpenSSL::Crypto
+    Threads::Threads
+)
+
+target_include_directories(audio_server
+    PRIVATE
+    ${websocketpp_SOURCE_DIR}
+)
+
+# Speak executable
+add_executable(speak
+    speak.cpp
+)
+
+target_link_libraries(speak
+    PRIVATE
+    CURL::libcurl
+    Threads::Threads
+)
+
+target_include_directories(speak
+    PRIVATE
+    ${websocketpp_SOURCE_DIR}
+) 

@@ -1,0 +1,46 @@
+[2025-08-10 07:37:45] SERVER: 0{"sid":"ZsFN5lXQTrHgVV9cAAAa","upgrades":[],"pingInterval":25000,"pingTimeout":20000,"maxPayload":1000000}
+[2025-08-10 07:37:45] INFO: Socket.IO connected
+[2025-08-10 07:37:45] SERVER: 40/tts,{"sid":"wN_LjYJiMXFXwE0hAAAb"}
+[2025-08-10 07:37:45] INFO: Processing Socket.IO message/event
+[2025-08-10 07:37:45] SERVER: 42/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T00:37:45.693Z","socketId":"wN_LjYJiMXFXwE0hAAAb"}]
+[2025-08-10 07:37:45] INFO: Processing Socket.IO message/event
+[2025-08-10 07:38:10] SERVER: 2
+[2025-08-10 07:38:10] INFO: Ping received, sending pong
+[2025-08-10 07:38:35] SERVER: 2
+[2025-08-10 07:38:35] INFO: Ping received, sending pong
+[2025-08-10 07:39:00] SERVER: 2
+[2025-08-10 07:39:00] INFO: Ping received, sending pong
+[2025-08-10 07:39:02] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"declaration","message":"Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Bản sao giấy tờ tùy thân.  Cảm ơn!","timestamp":"2025-08-10T00:39:02.270Z"}]
+[2025-08-10 07:39:02] INFO: Processing Socket.IO message/event
+[2025-08-10 07:39:02] INFO: Navigation message: Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Bản sao giấy tờ tùy thân.  Cảm ơn!
+[2025-08-10 07:40:38] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"declaration","message":"Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Giấy tờ tùy thân (bản sao), và Giấy tờ chứng minh nơi ở mới (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:39:02.399Z"}]
+[2025-08-10 07:40:38] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:38] INFO: Navigation message: Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Giấy tờ tùy thân (bản sao), và Giấy tờ chứng minh nơi ở mới (nếu có). Cảm ơn!
+[2025-08-10 07:40:39] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"declaration","message":"Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Bản sao giấy tờ tùy thân (nếu có), Giấy tờ chứng minh nơi ở (nếu có). Cảm ơn!","timestamp":"2025-08-10T00:39:02.481Z"}]
+[2025-08-10 07:40:39] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:39] INFO: Navigation message: Dạ, để làm thủ tục xóa đăng ký tạm trú, quý vị cần chuẩn bị các hồ sơ sau: Mẫu đơn số 01 theo quy định, Bản sao giấy tờ tùy thân (nếu có), Giấy tờ chứng minh nơi ở (nếu có). Cảm ơn!
+[2025-08-10 07:40:40] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt: Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác (trẻ em, người thân).  Cảm ơn.","timestamp":"2025-08-10T00:39:19.518Z"}]
+[2025-08-10 07:40:40] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:40] INFO: Navigation message: Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt: Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác (trẻ em, người thân).  Cảm ơn.
+[2025-08-10 07:40:41] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt: Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác (trẻ em, người thân).  Cảm ơn.","timestamp":"2025-08-10T00:39:19.946Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] INFO: Navigation message: Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt: Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác (trẻ em, người thân).  Cảm ơn.
+[2025-08-10 07:40:41] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"xac_nhan_cu_tru","message":"Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!","timestamp":"2025-08-10T00:39:20.276Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] INFO: Navigation message: Dạ, quý vị cần Mẫu chứng thực 07 theo Thông tư 66/2023 của Bộ Công an, Căn cước công dân gắn chip hoặc Chứng minh nhân dân, kèm Hộ chiếu còn hiệu lực. Trường hợp đặc biệt, cần Giấy tờ chứng minh quan hệ nhân thân nếu xin xác nhận cư trú cho người khác. Cảm ơn!
+[2025-08-10 07:40:41] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754786359947","timestamp":"2025-08-10T00:39:22.442Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754786360277","timestamp":"2025-08-10T00:39:22.543Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] SERVER: 42/tts,["broadcast",{"type":"tts_error","error":"TTS session cancelled due to new ASR","sessionId":"callback-1754786359519","timestamp":"2025-08-10T00:39:22.595Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] SERVER: 2
+[2025-08-10 07:40:41] INFO: Ping received, sending pong
+[2025-08-10 07:40:41] SERVER: 42/tts,["broadcast",{"type":"queue_assigned","queueNumber":"A-089","counter":"A","service":"cccd","qrCode":"A-089","message":"Số thứ tự của quý vị là A tám mươi chín. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:39:27.011Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, quý vị cần làm thủ tục cấp lại Chứng minh nhân dân. Vui lòng chuẩn bị Tờ khai cấp Chứng minh nhân dân (mẫu CMND 01) và giấy tờ tùy thân nếu có.  [ACTION::cccd] Cảm ơn! Số thứ tự của quý vị là A tám mươi chín. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.","timestamp":"2025-08-10T00:39:27.011Z"}]
+[2025-08-10 07:40:41] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:41] INFO: Navigation message: Dạ, quý vị cần làm thủ tục cấp lại Chứng minh nhân dân. Vui lòng chuẩn bị Tờ khai cấp Chứng minh nhân dân (mẫu CMND 01) và giấy tờ tùy thân nếu có.  [ACTION::cccd] Cảm ơn! Số thứ tự của quý vị là A tám mươi chín. Mời quý vị dùng điện thoại quét mã QR trên màn hình để lưu thông tin số thứ tự, quầy phục vụ và thời gian dự kiến.
+[2025-08-10 07:40:42] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"cccd","message":"Dạ, để làm chứng minh nhân dân, quý vị cần chuẩn bị Tờ khai cấp Chứng minh nhân dân, Giấy tờ tùy thân nếu có và các giấy tờ chứng minh thay đổi thông tin (nếu có).  Cảm ơn quý vị!","timestamp":"2025-08-10T00:39:27.054Z"}]
+[2025-08-10 07:40:42] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:42] INFO: Navigation message: Dạ, để làm chứng minh nhân dân, quý vị cần chuẩn bị Tờ khai cấp Chứng minh nhân dân, Giấy tờ tùy thân nếu có và các giấy tờ chứng minh thay đổi thông tin (nếu có).  Cảm ơn quý vị!

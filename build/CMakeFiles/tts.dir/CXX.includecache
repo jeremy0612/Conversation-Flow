@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deepx/Documents/keenon_mic/tts.cpp
+curl/curl.h
+-
+iostream
+-
+string
+-
+vector
+-
+cstdlib
+-
+filesystem
+-
+fstream
+-
+thread
+-
+chrono
+-
+cstring
+-
+

@@ -1,0 +1,15 @@
+[2025-08-10 07:40:44] SERVER: 0{"sid":"wrjNmRIv0B6OXHLcAAAm","upgrades":[],"pingInterval":25000,"pingTimeout":20000,"maxPayload":1000000}
+[2025-08-10 07:40:44] INFO: Socket.IO connected
+[2025-08-10 07:40:44] SERVER: 40/tts,{"sid":"NaU7W10QT4D7xD_rAAAn"}
+[2025-08-10 07:40:44] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:44] SERVER: 42/tts,["connected",{"type":"connected","message":"Socket.IO TTS connection established","timestamp":"2025-08-10T00:40:44.484Z","socketId":"NaU7W10QT4D7xD_rAAAn"}]
+[2025-08-10 07:40:44] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:44] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thuong_tru","message":"Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn!","timestamp":"2025-08-10T00:40:44.702Z"}]
+[2025-08-10 07:40:44] INFO: Processing Socket.IO message/event
+[2025-08-10 07:40:44] INFO: Navigation message: Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn!
+[2025-08-10 07:42:20] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thuong_tru","message":"Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn!","timestamp":"2025-08-10T00:40:44.718Z"}]
+[2025-08-10 07:42:20] INFO: Processing Socket.IO message/event
+[2025-08-10 07:42:20] INFO: Navigation message: Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn!
+[2025-08-10 07:42:27] SERVER: 42/tts,["navigation",{"type":"navigation","action":"navigation","url":"thu_tuc_dang_ky_thuong_tru","message":"Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn.","timestamp":"2025-08-10T00:40:44.751Z"}]
+[2025-08-10 07:42:27] INFO: Processing Socket.IO message/event
+[2025-08-10 07:42:27] INFO: Navigation message: Dạ, quý vị cần chuẩn bị mẫu đơn đăng ký thường trú, bản sao giấy tờ tùy thân và giấy tờ chứng minh nơi ở.  Cảm ơn.

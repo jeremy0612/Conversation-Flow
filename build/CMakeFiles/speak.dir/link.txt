@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/speak.dir/speak.cpp.o  -o speak /usr/lib/aarch64-linux-gnu/libssl.so /usr/lib/aarch64-linux-gnu/libcrypto.so /usr/lib/aarch64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/aarch64-linux-gnu/libcurl.so 
